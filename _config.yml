@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Renjie PI"
 description              : &description "Artificial Intelligence Enthusiast"
