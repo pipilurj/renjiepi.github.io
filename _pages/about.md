@@ -20,5 +20,5 @@ I'm broadly interested in the area of Artificial Intelligence, machine learning 
 
 Hobbies
 ======
-I started to sing since high school, becoming a singer was actually my childhood dream. During my undergraduate study, I also joined many singing competitions and won some awards, hook me up if you ever wanna go to KTV! Check out one of my competitions [here](https://www.iqiyi.com/adv/w_19ry5a0m1x.html)
+I started to sing since high school, becoming a singer was actually my childhood dream. During my undergraduate study, I also joined many singing competitions and won some awards, hook me up if you ever wanna go to KTV! Check out one of my competitions [here](https://www.iqiyi.com/adv/w_19ry5a0m1x.html).<br/>
 Other than working and studying, I spend most of my time in the gym or jogging outside, there is a Chinese saying "Body is the capital of revolution", stay healthy, stay strong, my friend.
