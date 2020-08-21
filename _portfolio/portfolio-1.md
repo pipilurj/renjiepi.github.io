@@ -1,6 +1,6 @@
 ---
 title: "CodeExpress Myanmar trip"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/network-architecture-1-1-1024x724.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/farming.jpg'>"
 collection: portfolio
 ---
 
