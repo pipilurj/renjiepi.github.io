@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Robotic Car"
-excerpt: "Coursework for Integrated Design Project<br/><img src='/images/arduino.jpg' width="512" height="362">"
+excerpt: "Coursework for Integrated Design Project<br/><img src='/images/arduino.jpg'>"
 collection: portfolio
 ---
 
